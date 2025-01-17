@@ -1,2 +1,2 @@
-# Tomato - Food-Delivery-Web-App
-Food Delivery Web Application
+# Tomato - Food Delivery Web App
+A Food Delivery Web Application
